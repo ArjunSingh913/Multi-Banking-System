@@ -1,0 +1,8 @@
+how to import database-->
+
+1. open the dos prompt in same folder in which u have kept dmp file
+2 give imp command on dos prompt.
+3. give user name and password of ur database.
+4. give buffer size 10000.
+5.now it will ask certain yes or no questions.
+6. give no to first question then yes to rest of them

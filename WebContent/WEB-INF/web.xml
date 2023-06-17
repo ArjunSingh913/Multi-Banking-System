@@ -1,0 +1,16 @@
+
+<web-app>
+<welcome-file-list>
+
+<welcome-file>/index.jsp</welcome-file>
+
+</welcome-file-list>
+<listener>
+  	<listener-class>listener.MyContextListener</listener-class>
+  </listener>
+  
+  <context-param>
+  	<param-name>permit</param-name>
+  	<param-value>no</param-value>
+  </context-param>
+</web-app>
